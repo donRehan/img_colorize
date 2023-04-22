@@ -1,9 +1,6 @@
 This is a training project in Computer vision to colozie a given image. Currently it works by adding the image in the **images** folder.
 Output is produced in the **Output** Folder.
 
-SCREENSHOTS::
-
-
 **TODO** 
 - [ ] Allow users to select a different directory.
 - [ ] Add fixing images that are toren or messed up.
