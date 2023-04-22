@@ -4,7 +4,7 @@ Output is produced in the **Output** Folder.
 SCREENSHOTS::
 
 
-*TODO 
+** TODO ** 
 - [ ] Allow users to select a different directory.
 - [ ] Add fixing images that are toren or messed up.
 - [ ] Sharpen images.
