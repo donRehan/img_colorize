@@ -5,10 +5,10 @@ SCREENSHOTS::
 
 
 *TODO 
--[ ] Allow users to select a different directory.
--[ ] Add fixing images that are toren or messed up.
--[ ] Sharpen images.
--[ ] Make the terminal gui better.
+- [ ] Allow users to select a different directory.
+- [ ] Add fixing images that are toren or messed up.
+- [ ] Sharpen images.
+- [ ] Make the terminal gui better.
 
 Motivation ::
 
